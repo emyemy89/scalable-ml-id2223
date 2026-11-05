@@ -224,3 +224,7 @@ __marimo__/
 *.idea
 data/*
 data/cifar-10-python.tar.gz
+
+
+# ML stuff
+*.pth
