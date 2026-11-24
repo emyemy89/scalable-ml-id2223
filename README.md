@@ -13,7 +13,7 @@ The assignment investigates model architecture, capacity, regularization, robust
 - **Validation set:** 10,000 images
 - **Test set:** 10,000 images
 
-The training set is split into 40,000 training images and 10,000 validation images using `random_split` with seed 42. The test set is reserved for final evaluation.
+The training set is split into 40,000 training images and 10,000 validation images using `random_split` with seed 587. The test set is reserved for final evaluation.
 
 Images are converted to tensors and normalized using the CIFAR-10 channel-wise mean and standard deviation.
 
